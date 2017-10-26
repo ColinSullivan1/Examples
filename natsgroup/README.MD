@@ -4,6 +4,6 @@ This example NATS API to track group membership.  Due to the nature of heartbeat
 
 ## TODO
 
- [ ] Scalability:  Allow strong vs weak (don't need to maintain a membership list) membership.
- [ ] Example usage, Walkthrough code, more comments
- [ ] README.MD
+ - [ ] Scalability:  Allow strong vs weak (don't need to maintain a membership list) membership.
+ - [ ] Example usage, Walkthrough code, more comments
+ - [ ] README.MD
