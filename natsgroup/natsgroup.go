@@ -1,4 +1,3 @@
-// Copyright 2017 Apcera Inc. All rights reserved.
 
 // Package natsgroup is a simple group membership API.
 package natsgroup
